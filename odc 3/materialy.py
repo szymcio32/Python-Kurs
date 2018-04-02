@@ -1,34 +1,12 @@
+
+#Zmienna to pojemnik na dane, który przechowuje określony typ i wartość.
+
+
 # LICZBY
 ##############################
-#   int     4
-#   float   4.2
+#   int     4     liczby całkowite
+#   float   4.2   liczby zmiennoprzecinkowe
 
-# type() - zwraca rodzaj obiektu np. int / float / string itd.
-# type(3)     #int
-# type(5.5)   #float
-
-#KONWERSJA LICZB
-#############################
-#int(3.8)     #3
-#float(4)     #4.0
-
-# liczba_float = 3.15
-# konwersja_na_int = int(liczba_float)
-# print(konwersja_na_int)     #3
-
-# OPERACJE ARYTMETYCZNE
-##############################
-#     Dodawanie       
-# print(3+3)          #6
-#     Odejmowanie     
-# print(3-1)          #2
-#     Mnożenie        
-# print(2*2)          #4
-#     Dzielenie       
-# print(2/2)          #1.0
-#     Potęgowanie     
-# print(2**2)         #4
-#     Modulo          
-# print(5%3)          #2
-#     Floor division  
-# print(5//2)         #2
+# type() - funkcja, która zwraca typ obiektu np. int / float / string itd.
+# type(3)     int
+# type(5.5)   float
