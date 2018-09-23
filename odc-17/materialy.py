@@ -1,3 +1,5 @@
+####### Przyklad 1
+
 parzyste = 0
 nieparzyste = 0
 
@@ -9,6 +11,9 @@ for i in range(1, 15):
 
 print(f'Ilosc parzystych liczb to: {parzyste}')
 print(f'Ilosc nieparzystych liczb to: {nieparzyste}')
+
+
+####### Przyklad 2
 
 nowe_wyrazy = []
 
